@@ -1,0 +1,519 @@
+player,position,age,team,points_per_game,rebounds_per_game,assists_per_game
+Ricky Council IV,SF,23,Philadelphia 76ers,7.3,2.9,1.3
+Guerschon Yabusele,C,29,Philadelphia 76ers,11.0,5.6,2.1
+Kelly Oubre Jr.,SF,29,Philadelphia 76ers,15.1,6.1,1.8
+Adem Bona,C,22,Philadelphia 76ers,5.8,4.2,0.5
+Tyrese Maxey,PG,24,Philadelphia 76ers,26.3,3.3,6.1
+Justin Edwards,SF,21,Philadelphia 76ers,10.1,3.4,1.6
+Paul George,PF,35,Philadelphia 76ers,16.2,5.3,4.3
+Jeff Dowtin  (TW),PG,28,Philadelphia 76ers,7.0,1.5,1.9
+Andre Drummond,C,31,Philadelphia 76ers,7.3,7.8,0.9
+Eric Gordon,SG,36,Philadelphia 76ers,6.8,1.2,1.7
+Kyle Lowry,PG,39,Philadelphia 76ers,3.9,1.9,2.7
+Quentin Grimes,SG,25,Philadelphia 76ers,14.6,4.3,3.0
+Jared Butler,SG,24,Philadelphia 76ers,9.0,1.8,3.7
+Jared McCain,SG,21,Philadelphia 76ers,15.3,2.4,2.6
+Lonnie Walker IV,SG,26,Philadelphia 76ers,12.4,3.2,2.5
+Joel Embiid,C,31,Philadelphia 76ers,23.8,8.2,4.5
+Alex Reese  (TW),PF,25,Philadelphia 76ers,5.1,3.1,0.3
+Jalen Hood-Schifino  (TW),SG,21,Philadelphia 76ers,7.1,1.8,2.5
+Isaiah Mobley,PF,25,Philadelphia 76ers,6.0,4.0,5.0
+Payton Pritchard,PG,27,Boston Celtics,14.3,3.8,3.5
+Derrick White,SG,30,Boston Celtics,16.4,4.5,4.8
+Luke Kornet,C,29,Boston Celtics,6.0,5.3,1.6
+Jayson Tatum,PF,27,Boston Celtics,26.8,8.7,6.0
+Sam Hauser,PF,27,Boston Celtics,8.5,3.2,0.9
+Jaylen Brown,SF,28,Boston Celtics,22.2,5.8,4.5
+Jrue Holiday,PG,34,Boston Celtics,11.1,4.3,3.9
+Neemias Queta,C,25,Boston Celtics,5.0,3.8,0.7
+Al Horford,C,38,Boston Celtics,9.0,6.2,2.1
+Jordan Walsh,PF,21,Boston Celtics,1.6,1.3,0.4
+Kristaps PorziÅÄ£is,C,29,Boston Celtics,19.5,6.8,2.1
+Xavier Tillman Sr.,C,26,Boston Celtics,1.0,1.3,0.2
+Baylor Scheierman,SG,24,Boston Celtics,3.6,2.1,1.1
+Drew Peterson  (TW),PF,25,Boston Celtics,2.2,1.6,0.5
+Torrey Craig,SF,34,Boston Celtics,4.2,2.8,0.7
+JD Davison,PG,22,Boston Celtics,2.1,0.8,0.8
+Miles Norris  (TW),PF,25,Boston Celtics,2.3,3.0,0.0
+Bam Adebayo,C,27,Miami Heat,18.1,9.6,4.3
+Tyler Herro,SG,25,Miami Heat,23.9,5.2,5.5
+Duncan Robinson,SF,31,Miami Heat,11.0,2.3,2.4
+Haywood Highsmith,SF,28,Miami Heat,6.5,3.4,1.5
+Jaime Jaquez Jr.,SF,24,Miami Heat,8.6,4.4,2.5
+Terry Rozier,PG,31,Miami Heat,10.6,3.7,2.6
+Kel'el Ware,C,21,Miami Heat,9.3,7.4,0.9
+Pelle Larsson,SG,24,Miami Heat,4.6,1.7,1.2
+Alec Burks,SG,33,Miami Heat,7.3,2.5,1.1
+Nikola JoviÄ,PF,21,Miami Heat,10.7,3.9,2.8
+Davion Mitchell,PG,26,Miami Heat,7.9,2.3,4.9
+Kyle Anderson,SF,31,Miami Heat,5.9,3.4,2.4
+Kevin Love,PF,36,Miami Heat,5.3,4.1,1.0
+Andrew Wiggins,SF,30,Miami Heat,18.0,4.5,2.6
+Keshad Johnson,SF,23,Miami Heat,2.7,1.8,0.3
+Dru Smith  (TW),SG,27,Miami Heat,6.2,2.6,1.6
+Josh Christopher  (TW),SG,23,Miami Heat,2.0,0.6,0.6
+Isaiah Stevens  (TW),PG,24,Miami Heat,0.0,0.7,0.0
+Brook Lopez,C,37,Milwaukee Bucks,13.0,5.0,1.8
+Taurean Prince,SF,31,Milwaukee Bucks,8.2,3.6,1.9
+Gary Trent Jr.,SG,26,Milwaukee Bucks,11.1,2.3,1.2
+A.J. Green,SG,25,Milwaukee Bucks,7.4,2.4,1.5
+Giannis Antetokounmpo,PF,30,Milwaukee Bucks,30.4,11.9,6.5
+Andre Jackson Jr.,SG,23,Milwaukee Bucks,3.4,2.7,1.2
+Damian Lillard,PG,34,Milwaukee Bucks,24.9,4.7,7.1
+Ryan Rollins,PG,22,Milwaukee Bucks,6.2,1.9,1.9
+Bobby Portis,PF,30,Milwaukee Bucks,13.9,8.4,2.1
+Pat Connaughton,SG,32,Milwaukee Bucks,5.3,2.7,1.7
+Kyle Kuzma,PF,29,Milwaukee Bucks,14.8,5.7,2.3
+Kevin Porter Jr.,SG,25,Milwaukee Bucks,10.3,3.7,3.4
+Tyler Smith,PF,20,Milwaukee Bucks,2.9,1.1,0.2
+Stanley Umude  (TW),SG,26,Milwaukee Bucks,0.7,0.8,0.2
+Chris Livingston,SF,21,Milwaukee Bucks,1.4,1.7,0.2
+Jericho Sims,C,26,Milwaukee Bucks,1.8,3.7,0.6
+Pete Nance  (TW),PF,25,Milwaukee Bucks,2.9,1.6,0.8
+Jamaree Bouyea  (TW),PG,25,Milwaukee Bucks,3.4,1.0,2.0
+Mikal Bridges,SF,28,New York Knicks,17.6,3.2,3.7
+Josh Hart,SG,30,New York Knicks,13.6,9.6,5.9
+OG Anunoby,PF,27,New York Knicks,18.0,4.8,2.2
+Karl-Anthony Towns,C,29,New York Knicks,24.4,12.8,3.1
+Cameron Payne,PG,30,New York Knicks,6.9,1.4,2.8
+Jalen Brunson,PG,28,New York Knicks,26.0,2.9,7.3
+Miles McBride,PG,24,New York Knicks,9.5,2.5,2.9
+Precious Achiuwa,C,25,New York Knicks,6.6,5.6,1.0
+Landry Shamet,SG,28,New York Knicks,5.7,1.2,0.5
+Tyler Kolek,PG,24,New York Knicks,2.0,0.7,1.7
+Ariel Hukporti,C,23,New York Knicks,1.9,2.0,0.4
+Pacome Dadiet,SG,19,New York Knicks,1.7,1.0,0.3
+Mitchell Robinson,C,27,New York Knicks,5.1,5.9,0.8
+Delon Wright,PG,33,New York Knicks,3.1,1.7,1.9
+Anton Watson  (TW),SF,24,New York Knicks,0.9,0.3,0.2
+MarJon Beauchamp  (TW),SF,24,New York Knicks,2.3,1.3,0.3
+Kevin McCullar Jr.  (TW),SF,24,New York Knicks,1.5,2.0,0.5
+P.J. Tucker,SF,40,New York Knicks,3.0,2.7,0.0
+Jamal Shead,PG,22,Toronto Raptors,7.1,1.5,4.2
+Scottie Barnes,PF,23,Toronto Raptors,19.3,7.7,5.8
+Ochai Agbaji,SG,25,Toronto Raptors,10.4,3.8,1.5
+Jonathan Mogbo,PF,23,Toronto Raptors,6.2,4.9,2.3
+Jamison Battle,SF,24,Toronto Raptors,7.1,2.7,0.9
+RJ Barrett,SF,24,Toronto Raptors,21.1,6.3,5.4
+Jakob Poeltl,C,29,Toronto Raptors,14.5,9.6,2.8
+Gradey Dick,SG,21,Toronto Raptors,14.4,3.6,1.8
+Ja'Kobe Walter,SG,20,Toronto Raptors,8.6,3.1,1.6
+Chris Boucher,PF,32,Toronto Raptors,10.0,4.5,0.7
+Immanuel Quickley,PG,25,Toronto Raptors,17.1,3.5,5.8
+Garrett Temple,SG,39,Toronto Raptors,1.9,1.0,1.1
+A.J. Lawson,SG,24,Toronto Raptors,9.1,3.3,1.2
+Colin Castleton,C,24,Toronto Raptors,4.7,4.7,1.1
+Jared Rhoden  (TW),SG,25,Toronto Raptors,8.4,3.0,1.1
+Ulrich Chomche  (TW),PF,19,Toronto Raptors,0.7,1.1,0.3
+Brandon Ingram,SF,27,Toronto Raptors,22.2,5.6,5.2
+Keon Johnson,SG,23,Brooklyn Nets,10.6,3.8,2.2
+Jalen Wilson,PF,24,Brooklyn Nets,9.5,3.4,1.8
+Nic Claxton,C,26,Brooklyn Nets,10.3,7.4,2.2
+Ziaire Williams,SF,23,Brooklyn Nets,10.0,4.6,1.3
+Tyrese Martin,SG,26,Brooklyn Nets,8.7,3.7,2.0
+Cameron Johnson,PF,29,Brooklyn Nets,18.8,4.3,3.4
+Day'Ron Sharpe,C,23,Brooklyn Nets,7.9,6.6,1.8
+Noah Clowney,PF,20,Brooklyn Nets,9.1,3.9,0.9
+Trendon Watford,PF,24,Brooklyn Nets,10.2,3.6,2.6
+Reece Beekman  (TW),PG,23,Brooklyn Nets,2.6,1.1,1.8
+D'Angelo Russell,PG,29,Brooklyn Nets,12.6,2.8,5.1
+Tosan Evbuomwan  (TW),SF,24,Brooklyn Nets,9.5,4.3,2.0
+Cam Thomas,SG,23,Brooklyn Nets,24.0,3.3,3.8
+Maxwell Lewis,SF,22,Brooklyn Nets,4.1,2.0,0.7
+Dariq Whitehead,SF,20,Brooklyn Nets,5.7,1.5,0.6
+Drew Timme,PF,24,Brooklyn Nets,12.1,7.2,2.2
+Tyson Etienne  (TW),PG,25,Brooklyn Nets,7.9,1.3,1.7
+De'Anthony Melton,PG,26,Brooklyn Nets,10.3,3.3,2.8
+Anthony Black,PG,21,Orlando Magic,9.4,2.9,3.1
+Kentavious Caldwell-Pope,SG,32,Orlando Magic,8.7,2.2,1.8
+Tristan Da Silva,SF,24,Orlando Magic,7.2,3.3,1.5
+Jonathan Isaac,PF,27,Orlando Magic,5.4,4.4,0.6
+Goga Bitadze,C,25,Orlando Magic,7.2,6.6,2.0
+Wendell Carter Jr.,C,26,Orlando Magic,9.1,7.2,2.0
+Cole Anthony,PG,25,Orlando Magic,9.4,3.0,2.9
+Franz Wagner,SF,23,Orlando Magic,24.2,5.7,4.7
+Jett Howard,SF,21,Orlando Magic,4.5,1.2,0.7
+Caleb Houstan,SF,22,Orlando Magic,4.1,1.3,0.6
+Cory Joseph,PG,33,Orlando Magic,3.5,1.5,1.4
+Gary Harris,SG,30,Orlando Magic,3.0,1.3,0.6
+Paolo Banchero,PF,22,Orlando Magic,25.9,7.5,4.8
+Jalen Suggs,PG,23,Orlando Magic,16.2,4.0,3.7
+Trevelin Queen  (TW),SG,28,Orlando Magic,4.9,1.7,1.2
+Moritz Wagner,C,28,Orlando Magic,12.9,4.9,1.4
+Mac McClung  (TW),SG,26,Orlando Magic,0.0,0.5,1.5
+Ethan Thompson  (TW),SG,26,Orlando Magic,0.0,0.0,0.0
+Bub Carrington,PG,19,Washington Wizards,9.8,4.2,4.4
+Jordan Poole,SG,25,Washington Wizards,20.5,3.0,4.5
+Kyshawn George,SG,21,Washington Wizards,8.7,4.2,2.5
+Alex Sarr,C,20,Washington Wizards,13.0,6.5,2.4
+Justin Champagnie,SF,23,Washington Wizards,8.8,5.7,1.0
+Corey Kispert,SF,26,Washington Wizards,11.6,3.0,1.7
+Bilal Coulibaly,SF,20,Washington Wizards,12.3,5.0,3.4
+Anthony Gill,PF,32,Washington Wizards,2.5,1.3,0.3
+Tristan Vukcevic  (TW),C,22,Washington Wizards,9.4,3.7,1.1
+Richaun Holmes,PF,31,Washington Wizards,7.4,5.7,1.4
+Malcolm Brogdon,PG,32,Washington Wizards,12.7,3.8,4.1
+AJ Johnson,SG,20,Washington Wizards,7.6,2.0,2.6
+Marcus Smart,PG,31,Washington Wizards,9.0,2.1,3.2
+Colby Jones,SG,22,Washington Wizards,4.0,2.2,1.1
+Khris Middleton,SF,33,Washington Wizards,11.9,3.7,4.1
+Jaylen Martin  (TW),SF,21,Washington Wizards,4.9,2.8,1.1
+JT Thor  (TW),PF,22,Washington Wizards,3.6,2.4,0.3
+Saddiq Bey,SF,26,Washington Wizards,0.0,0.0,0.0
+Obi Toppin,PF,27,Indiana Pacers,10.5,4.0,1.6
+T.J. McConnell,PG,33,Indiana Pacers,9.1,2.4,4.4
+Pascal Siakam,PF,31,Indiana Pacers,20.2,6.9,3.4
+Jarace Walker,PF,21,Indiana Pacers,6.1,3.1,1.5
+Tyrese Haliburton,PG,25,Indiana Pacers,18.6,3.5,9.2
+Bennedict Mathurin,SF,22,Indiana Pacers,16.1,5.3,1.9
+Myles Turner,C,29,Indiana Pacers,15.6,6.5,1.5
+Andrew Nembhard,SG,25,Indiana Pacers,10.0,3.3,5.0
+Ben Sheppard,SG,23,Indiana Pacers,5.3,2.8,1.3
+Thomas Bryant,C,27,Indiana Pacers,6.5,3.8,0.8
+Johnny Furphy,SG,20,Indiana Pacers,2.1,1.4,0.4
+Aaron Nesmith,SF,25,Indiana Pacers,12.0,4.0,1.2
+Quenton Jackson  (TW),PG,26,Indiana Pacers,5.8,1.6,1.9
+Enrique Freeman  (TW),PF,24,Indiana Pacers,2.1,1.4,0.4
+Tony Bradley,C,27,Indiana Pacers,4.4,3.0,0.4
+James Johnson,PF,38,Indiana Pacers,0.7,0.5,0.3
+RayJ Dennis  (TW),PG,24,Indiana Pacers,2.7,1.1,1.3
+Isaiah Jackson,C,23,Indiana Pacers,7.0,5.6,1.0
+Matas Buzelis,SF,20,Chicago Bulls,8.6,3.5,1.0
+Julian Phillips,SF,21,Chicago Bulls,4.6,2.1,0.5
+Coby White,SG,25,Chicago Bulls,20.4,3.7,4.5
+Nikola VuÄeviÄ,C,34,Chicago Bulls,18.5,10.1,3.5
+Dalen Terry,SG,22,Chicago Bulls,4.5,1.7,1.3
+Josh Giddey,PG,22,Chicago Bulls,14.6,8.1,7.2
+Jalen Smith,C,25,Chicago Bulls,8.2,5.6,1.0
+Patrick Williams,PF,23,Chicago Bulls,9.0,3.8,2.0
+Talen Horton-Tucker,SG,24,Chicago Bulls,6.5,1.7,1.4
+Ayo Dosunmu,SG,25,Chicago Bulls,12.3,3.5,4.5
+Jevon Carter,PG,29,Chicago Bulls,4.3,1.1,1.1
+Lonzo Ball,PG,27,Chicago Bulls,7.6,3.4,3.3
+Zach Collins,PF,27,Chicago Bulls,6.4,4.5,1.7
+Kevin Huerter,SG,26,Chicago Bulls,9.9,3.0,2.3
+Tre Jones,PG,25,Chicago Bulls,7.2,2.5,4.2
+E.J. Liddell  (TW),PF,24,Chicago Bulls,1.8,0.8,0.3
+Jahmir Young  (TW),PG,24,Chicago Bulls,1.8,0.5,1.0
+Emanuel Miller  (TW),PF,24,Chicago Bulls,1.7,1.3,0.3
+Jarrett Allen,C,27,Cleveland Cavaliers,13.5,9.7,1.9
+Darius Garland,PG,25,Cleveland Cavaliers,20.6,2.9,6.7
+Donovan Mitchell,SG,28,Cleveland Cavaliers,24.0,4.5,5.0
+Evan Mobley,PF,23,Cleveland Cavaliers,18.5,9.3,3.2
+Sam Merrill,SG,29,Cleveland Cavaliers,7.2,2.2,1.5
+Ty Jerome,SG,27,Cleveland Cavaliers,12.5,2.5,3.4
+Dean Wade,PF,28,Cleveland Cavaliers,5.4,4.2,1.3
+Isaac Okoro,SG,24,Cleveland Cavaliers,6.1,2.4,1.2
+Craig Porter Jr.,PG,25,Cleveland Cavaliers,3.7,1.3,1.4
+Max Strus,SF,29,Cleveland Cavaliers,9.4,4.3,3.2
+Jaylon Tyson,SG,22,Cleveland Cavaliers,3.6,2.0,0.9
+Tristan Thompson,C,34,Cleveland Cavaliers,1.7,3.4,0.6
+De'Andre Hunter,SF,27,Cleveland Cavaliers,17.0,4.0,1.4
+Javonte Green,SG,31,Cleveland Cavaliers,5.1,3.2,0.8
+Luke Travers  (TW),SG,23,Cleveland Cavaliers,1.0,1.7,0.7
+Emoni Bates  (TW),SF,21,Cleveland Cavaliers,3.7,0.7,0.8
+Nae'Qwan Tomlin  (TW),PF,24,Cleveland Cavaliers,7.2,4.2,0.4
+Chuma Okeke,PF,26,Cleveland Cavaliers,5.9,5.2,1.7
+Malik Beasley,SG,28,Detroit Pistons,16.3,2.6,1.7
+Ron Holland,SF,19,Detroit Pistons,6.4,2.7,1.0
+Jalen Duren,C,21,Detroit Pistons,11.8,10.3,2.7
+Tim Hardaway Jr.,SG,33,Detroit Pistons,11.0,2.4,1.6
+Simone Fontecchio,SF,29,Detroit Pistons,5.9,2.9,0.9
+Tobias Harris,PF,32,Detroit Pistons,13.7,5.9,2.2
+Isaiah Stewart,C,23,Detroit Pistons,6.0,5.5,1.7
+Cade Cunningham,PG,23,Detroit Pistons,26.1,6.1,9.1
+Ausar Thompson,SF,22,Detroit Pistons,10.1,5.1,2.3
+Marcus Sasser,PG,24,Detroit Pistons,6.6,1.2,2.3
+Paul Reed,C,25,Detroit Pistons,4.1,2.7,1.0
+Jaden Ivey,SG,23,Detroit Pistons,17.6,4.1,4.0
+Dennis SchrÃ¶der,PG,31,Detroit Pistons,13.1,2.6,5.4
+Lindy Waters III,SG,27,Detroit Pistons,4.9,2.1,1.0
+Bobi Klintman,SF,22,Detroit Pistons,1.9,0.9,0.9
+Daniss Jenkins  (TW),PG,23,Detroit Pistons,1.0,0.3,0.4
+Tolu Smith  (TW),PF,24,Detroit Pistons,14.0,8.0,0.0
+Ron Harper Jr.  (TW),SF,25,Detroit Pistons,4.0,7.0,2.0
+Trae Young,PG,26,Atlanta Hawks,24.2,3.1,11.6
+Dyson Daniels,SG,22,Atlanta Hawks,14.1,5.9,4.4
+Zaccharie Risacher,SF,20,Atlanta Hawks,12.6,3.6,1.2
+Onyeka Okongwu,C,24,Atlanta Hawks,13.4,8.9,2.3
+Vit Krejci,PG,24,Atlanta Hawks,7.2,2.7,2.6
+Clint Capela,C,31,Atlanta Hawks,8.9,8.5,1.1
+Garrison Mathews,SG,28,Atlanta Hawks,7.5,1.9,1.3
+Jalen Johnson,SF,23,Atlanta Hawks,18.9,10.0,5.0
+Dominick Barlow,SF,21,Atlanta Hawks,4.2,2.4,0.5
+Mouhamed Gueye,PF,22,Atlanta Hawks,6.0,4.2,0.8
+Keaton Wallace  (TW),PG,26,Atlanta Hawks,5.4,1.6,2.6
+Terance Mann,SG,28,Atlanta Hawks,7.7,3.0,1.8
+Georges Niang,PF,31,Atlanta Hawks,9.9,3.4,1.4
+Caris LeVert,SG,30,Atlanta Hawks,12.1,3.2,3.4
+Larry Nance Jr.,PF,32,Atlanta Hawks,8.5,4.3,1.6
+Kobe Bufkin,SG,21,Atlanta Hawks,5.3,2.1,1.7
+Daeqwon Plowden  (TW),SG,26,Atlanta Hawks,7.2,1.8,0.3
+Jacob Toppin  (TW),SF,25,Atlanta Hawks,1.4,0.9,0.4
+Yves Missi,C,21,New Orleans Pelicans,9.1,8.2,1.4
+Jeremiah Robinson-Earl,PF,24,New Orleans Pelicans,6.3,4.8,1.3
+CJ McCollum,PG,33,New Orleans Pelicans,21.1,3.8,4.1
+Jordan Hawkins,SG,23,New Orleans Pelicans,10.8,2.8,1.2
+Jose Alvarado,PG,27,New Orleans Pelicans,10.3,2.4,4.6
+Trey Murphy III,SF,24,New Orleans Pelicans,21.2,5.1,3.5
+Antonio Reeves,SG,24,New Orleans Pelicans,6.9,1.4,0.9
+Brandon Boston Jr.,SG,23,New Orleans Pelicans,10.7,3.2,2.2
+Karlo MatkoviÄ,PF,24,New Orleans Pelicans,7.7,5.0,1.1
+Jamal Cain  (TW),SF,26,New Orleans Pelicans,5.3,2.3,0.6
+Dejounte Murray,PG,28,New Orleans Pelicans,17.5,6.5,7.4
+Zion Williamson,PF,24,New Orleans Pelicans,24.6,7.2,5.3
+Bruce Brown,PG,28,New Orleans Pelicans,8.3,4.0,2.0
+Kelly Olynyk,C,34,New Orleans Pelicans,8.7,4.7,2.9
+Herbert Jones,SF,26,New Orleans Pelicans,10.3,3.9,3.3
+Elfrid Payton,PG,31,New Orleans Pelicans,3.5,3.3,6.9
+Keion Brooks Jr.  (TW),SF,24,New Orleans Pelicans,10.1,4.1,0.9
+Lester QuiÃ±ones  (TW),SG,24,New Orleans Pelicans,6.6,1.5,1.8
+Kylor Kelley,C,27,New Orleans Pelicans,3.1,3.5,0.5
+Spencer Dinwiddie,PG,32,Dallas Mavericks,11.0,2.6,4.4
+Klay Thompson,SF,35,Dallas Mavericks,14.0,3.4,2.0
+Naji Marshall,SF,27,Dallas Mavericks,13.2,4.8,3.0
+P.J. Washington,PF,26,Dallas Mavericks,14.7,7.8,2.3
+Daniel Gafford,C,26,Dallas Mavericks,12.3,6.8,1.4
+Jaden Hardy,SG,22,Dallas Mavericks,8.7,1.6,1.4
+Dwight Powell,C,33,Dallas Mavericks,2.1,2.1,1.0
+Olivier-Maxence Prosper,PF,22,Dallas Mavericks,3.9,2.4,0.8
+Kyrie Irving,SG,33,Dallas Mavericks,24.7,4.8,4.6
+Kessler Edwards  (TW),SF,24,Dallas Mavericks,4.2,2.9,1.1
+Dereck Lively II,C,21,Dallas Mavericks,8.7,7.5,2.4
+Brandon Williams,PG,25,Dallas Mavericks,8.3,1.8,2.3
+Max Christie,SG,22,Dallas Mavericks,9.6,3.3,1.9
+Dante Exum,PG,29,Dallas Mavericks,8.7,1.7,2.8
+Caleb Martin,SF,29,Dallas Mavericks,7.9,3.9,2.1
+Kai Jones  (TW),C,24,Dallas Mavericks,5.0,3.1,0.6
+Anthony Davis,PF,32,Dallas Mavericks,24.7,11.6,3.5
+Jalen Green,SG,23,Houston Rockets,21.0,4.6,3.4
+Alperen ÅengÃ¼n,C,22,Houston Rockets,19.1,10.3,4.9
+Dillon Brooks,SF,29,Houston Rockets,14.0,3.7,1.7
+Amen Thompson,SF,22,Houston Rockets,14.1,8.2,3.8
+Aaron Holiday,PG,28,Houston Rockets,5.5,1.3,1.3
+Fred VanVleet,PG,31,Houston Rockets,14.1,3.7,5.6
+Steven Adams,C,31,Houston Rockets,3.9,5.6,1.1
+Jabari Smith Jr.,PF,22,Houston Rockets,12.2,7.0,1.1
+Tari Eason,PF,24,Houston Rockets,12.0,6.4,1.5
+Reed Sheppard,PG,20,Houston Rockets,4.4,1.5,1.4
+Jae'Sean Tate,SF,29,Houston Rockets,3.6,2.3,0.9
+Cam Whitmore,SF,20,Houston Rockets,9.4,3.0,1.0
+Jock Landale,C,29,Houston Rockets,4.8,3.3,0.9
+Jeff Green,PF,38,Houston Rockets,5.4,1.8,0.6
+Jeenathan Williams,SG,26,Houston Rockets,3.3,0.7,0.5
+Jack McVeigh  (TW),PF,28,Houston Rockets,1.6,0.6,0.1
+N'Faly Dante  (TW),C,23,Houston Rockets,6.0,5.3,0.5
+David Roddy  (TW),PF,24,Houston Rockets,4.6,2.5,1.1
+Harrison Barnes,PF,32,San Antonio Spurs,12.3,3.8,1.7
+Julian Champagnie,SF,23,San Antonio Spurs,9.9,3.9,1.4
+Chris Paul,PG,40,San Antonio Spurs,8.8,3.6,7.4
+Stephon Castle,PG,20,San Antonio Spurs,14.7,3.7,4.1
+Keldon Johnson,SF,25,San Antonio Spurs,12.7,4.8,1.6
+Devin Vassell,SG,24,San Antonio Spurs,16.3,4.0,2.9
+Sandro Mamukelashvili,PF,25,San Antonio Spurs,6.3,3.1,0.8
+Blake Wesley,SG,22,San Antonio Spurs,3.7,1.1,2.0
+Jeremy Sochan,PF,22,San Antonio Spurs,11.4,6.5,2.4
+Malaki Branham,SG,22,San Antonio Spurs,5.0,1.1,0.8
+Victor Wembanyama,C,21,San Antonio Spurs,24.3,11.0,3.7
+Charles Bassey,C,24,San Antonio Spurs,4.4,4.2,0.5
+Bismack Biyombo,C,32,San Antonio Spurs,5.1,5.6,1.1
+Jordan McLaughlin,PG,29,San Antonio Spurs,2.1,0.7,1.1
+De'Aaron Fox,PG,27,San Antonio Spurs,23.5,4.8,6.3
+David Duke Jr.  (TW),SG,25,San Antonio Spurs,2.7,0.8,0.7
+Harrison Ingram  (TW),SF,22,San Antonio Spurs,0.8,1.8,0.6
+Riley Minix  (TW),SF,24,San Antonio Spurs,0.0,2.0,0.0
+Christian Braun,SG,24,Denver Nuggets,15.4,5.2,2.6
+Michael Porter Jr.,SF,26,Denver Nuggets,18.2,7.0,2.1
+Russell Westbrook,PG,36,Denver Nuggets,13.3,4.9,6.1
+Nikola JokiÄ,C,30,Denver Nuggets,29.6,12.7,10.2
+Peyton Watson,SF,22,Denver Nuggets,8.1,3.4,1.4
+Jamal Murray,PG,28,Denver Nuggets,21.4,3.9,6.0
+Julian Strawther,SG,23,Denver Nuggets,9.0,2.2,1.3
+Zeke Nnaji,PF,24,Denver Nuggets,3.2,1.6,0.4
+DeAndre Jordan,C,36,Denver Nuggets,3.7,5.1,0.9
+Aaron Gordon,PF,29,Denver Nuggets,14.7,4.8,3.2
+Hunter Tyson,PF,24,Denver Nuggets,2.6,1.5,0.4
+Jalen Pickett,SG,25,Denver Nuggets,4.1,1.4,2.2
+Trey Alexander  (TW),SG,22,Denver Nuggets,1.3,0.5,0.5
+Spencer Jones  (TW),SF,23,Denver Nuggets,1.3,0.9,0.3
+PJ Hall  (TW),C,23,Denver Nuggets,1.7,1.2,0.2
+Dario Å ariÄ,C,31,Denver Nuggets,3.5,3.1,1.4
+Vlatko ÄanÄar,PF,28,Denver Nuggets,1.8,2.5,0.7
+DaRon Holmes,PF,22,Denver Nuggets,0.0,0.0,0.0
+Ivica Zubac,C,28,Los Angeles Clippers,16.8,12.6,2.7
+James Harden,PG,35,Los Angeles Clippers,22.8,5.8,8.7
+Nicolas Batum,PF,36,Los Angeles Clippers,4.0,2.8,1.1
+Derrick Jones Jr.,SF,28,Los Angeles Clippers,10.1,3.4,0.8
+Kris Dunn,PG,31,Los Angeles Clippers,6.4,3.4,2.8
+Amir Coffey,SG,27,Los Angeles Clippers,9.7,2.2,1.1
+Norman Powell,SG,31,Los Angeles Clippers,21.8,3.2,2.1
+Kobe Brown,PF,25,Los Angeles Clippers,1.9,1.6,0.6
+Kawhi Leonard,SF,33,Los Angeles Clippers,21.5,5.9,3.1
+Jordan Miller,SF,25,Los Angeles Clippers,4.1,1.6,0.9
+Bogdan BogdanoviÄ,SG,32,Los Angeles Clippers,10.8,2.9,2.7
+Drew Eubanks,C,28,Los Angeles Clippers,4.6,3.7,0.9
+Ben Simmons,PG,28,Los Angeles Clippers,5.0,4.7,5.6
+Cam Christie,SG,19,Los Angeles Clippers,1.4,0.9,0.5
+Patty Mills,PG,36,Los Angeles Clippers,3.8,0.8,0.9
+Trentyn Flowers  (TW),SF,20,Los Angeles Clippers,1.8,0.7,0.0
+Patrick Baldwin Jr.  (TW),SF,22,Los Angeles Clippers,2.2,1.0,0.1
+Seth Lundy  (TW),SF,25,Los Angeles Clippers,0.0,0.0,0.0
+Dalton Knecht,SF,24,Los Angeles Lakers,9.1,2.8,0.8
+Austin Reaves,SG,26,Los Angeles Lakers,20.2,4.5,5.8
+Gabe Vincent,PG,28,Los Angeles Lakers,6.4,1.3,1.4
+LeBron James,SF,40,Los Angeles Lakers,24.4,7.8,8.2
+Rui Hachimura,PF,27,Los Angeles Lakers,13.1,5.0,1.4
+Jaxson Hayes,C,24,Los Angeles Lakers,6.8,4.8,1.0
+Dorian Finney-Smith,PF,32,Los Angeles Lakers,8.7,3.9,1.4
+Christian Koloko  (TW),C,24,Los Angeles Lakers,2.4,2.5,0.4
+Jarred Vanderbilt,PF,26,Los Angeles Lakers,4.1,5.1,1.1
+Shake Milton,SG,28,Los Angeles Lakers,5.5,1.8,1.8
+Jordan Goodwin,PG,26,Los Angeles Lakers,5.6,3.9,1.4
+Luka DonÄiÄ,PG,26,Los Angeles Lakers,28.2,8.2,7.7
+Bronny James,SG,20,Los Angeles Lakers,2.3,0.7,0.8
+Trey Jemison  (TW),C,25,Los Angeles Lakers,2.5,2.8,0.4
+Alex Len,C,31,Los Angeles Lakers,1.6,2.1,0.8
+Markieff Morris,PF,35,Los Angeles Lakers,3.7,1.5,1.4
+Maxi Kleber,PF,33,Los Angeles Lakers,3.0,2.8,1.3
+Tyus Jones,PG,29,Phoenix Suns,10.2,2.4,5.3
+Devin Booker,SG,28,Phoenix Suns,25.6,4.1,7.1
+Royce O'Neale,SF,31,Phoenix Suns,9.1,4.7,2.2
+Ryan Dunn,SF,22,Phoenix Suns,6.9,3.6,0.8
+Mason Plumlee,C,35,Phoenix Suns,4.5,6.1,1.8
+Grayson Allen,SG,29,Phoenix Suns,10.6,3.0,2.1
+Kevin Durant,PF,36,Phoenix Suns,26.6,6.0,4.2
+Oso Ighodaro,PF,22,Phoenix Suns,4.2,3.6,1.2
+Bradley Beal,SG,31,Phoenix Suns,17.0,3.3,3.7
+Monte Morris,PG,29,Phoenix Suns,5.2,1.5,1.6
+Nick Richards,C,27,Phoenix Suns,9.3,8.2,0.9
+Bol Bol,PF,25,Phoenix Suns,6.8,2.9,0.6
+Collin Gillespie  (TW),PG,25,Phoenix Suns,5.9,2.4,2.4
+Damion Lee,SG,32,Phoenix Suns,3.3,0.8,0.4
+TyTy Washington Jr.  (TW),PG,23,Phoenix Suns,2.2,0.8,1.0
+Cody Martin,SF,29,Phoenix Suns,6.8,4.2,2.0
+Jalen Bridges  (TW),SF,24,Phoenix Suns,1.1,0.5,0.0
+Vasilije MiciÄ,PG,31,Phoenix Suns,6.6,2.2,3.1
+Keon Ellis,SG,25,Sacramento Kings,8.3,2.7,1.5
+DeMar DeRozan,SF,35,Sacramento Kings,22.2,3.9,4.4
+Keegan Murray,PF,24,Sacramento Kings,12.4,6.7,1.4
+Domantas Sabonis,C,29,Sacramento Kings,19.1,13.9,6.0
+Trey Lyles,PF,29,Sacramento Kings,6.5,4.6,1.2
+Malik Monk,SG,27,Sacramento Kings,17.2,3.8,5.6
+Doug McDermott,SF,33,Sacramento Kings,3.5,0.5,0.2
+Isaac Jones,PF,24,Sacramento Kings,3.4,1.4,0.3
+Devin Carter,PG,23,Sacramento Kings,3.8,2.1,1.1
+Zach LaVine,SG,30,Sacramento Kings,23.3,4.3,4.2
+Jonas ValanÄiÅ«nas,C,33,Sacramento Kings,10.4,7.7,2.0
+Markelle Fultz,PG,26,Sacramento Kings,2.9,1.0,1.3
+Jake LaRavia,PF,23,Sacramento Kings,6.9,3.9,2.4
+Isaiah Crawford  (TW),SF,23,Sacramento Kings,0.9,0.5,0.1
+Mason Jones  (TW),SG,26,Sacramento Kings,2.3,0.9,1.1
+Jae Crowder,PF,34,Sacramento Kings,2.6,2.2,0.7
+Terence Davis,SG,28,Sacramento Kings,0.0,1.0,1.0
+Toumani Camara,PF,25,Portland Trail Blazers,11.3,5.8,2.2
+Shaedon Sharpe,SG,21,Portland Trail Blazers,18.5,4.5,2.8
+Deni Avdija,SF,24,Portland Trail Blazers,16.9,7.3,3.9
+Anfernee Simons,SG,25,Portland Trail Blazers,19.3,2.7,4.8
+Kris Murray,SF,24,Portland Trail Blazers,4.2,2.6,1.0
+Dalano Banton,PG,25,Portland Trail Blazers,8.3,2.0,2.4
+Donovan Clingan,C,21,Portland Trail Blazers,6.5,7.9,1.1
+Scoot Henderson,PG,21,Portland Trail Blazers,12.7,3.0,5.1
+Jabari Walker,SF,22,Portland Trail Blazers,5.2,3.5,0.6
+Rayan Rupert,SG,20,Portland Trail Blazers,3.0,1.3,0.5
+Jerami Grant,PF,31,Portland Trail Blazers,14.4,3.5,2.1
+Duop Reath,C,28,Portland Trail Blazers,4.2,2.0,0.6
+Deandre Ayton,C,26,Portland Trail Blazers,14.4,10.2,1.6
+Robert Williams,C,27,Portland Trail Blazers,5.8,5.9,1.1
+Justin Minaya  (TW),SF,26,Portland Trail Blazers,0.9,0.5,0.4
+Matisse Thybulle,SG,28,Portland Trail Blazers,7.5,3.5,1.9
+Bryce McGowens  (TW),SG,22,Portland Trail Blazers,1.0,0.2,0.2
+Sidy Cissoko  (TW),SF,21,Portland Trail Blazers,1.5,1.0,0.7
+Kyle Filipowski,C,21,Utah Jazz,9.6,6.1,1.9
+Brice Sensabaugh,SF,21,Utah Jazz,10.9,3.0,1.5
+Isaiah Collier,PG,20,Utah Jazz,8.7,3.3,6.3
+Keyonte George,PG,21,Utah Jazz,16.8,3.8,5.6
+Johnny Juzang,SG,24,Utah Jazz,8.9,2.9,1.1
+Collin Sexton,SG,26,Utah Jazz,18.4,2.7,4.2
+Walker Kessler,C,23,Utah Jazz,11.1,12.2,1.7
+Cody Williams,SG,20,Utah Jazz,4.6,2.3,1.2
+Lauri Markkanen,PF,27,Utah Jazz,19.0,5.9,1.5
+John Collins,PF,27,Utah Jazz,19.0,8.2,2.0
+Svi Mykhailiuk,SF,27,Utah Jazz,8.8,2.4,2.0
+Micah Potter  (TW),C,27,Utah Jazz,4.3,4.3,0.8
+Jordan Clarkson,SG,32,Utah Jazz,16.2,3.2,3.7
+KJ Martin,SF,24,Utah Jazz,6.4,2.9,1.1
+Jaden Springer,PG,22,Utah Jazz,2.5,1.3,0.8
+Oscar Tshiebwe  (TW),C,25,Utah Jazz,7.6,8.7,0.6
+Elijah Harkless  (TW),SG,25,Utah Jazz,3.2,2.1,0.8
+Taylor Hendricks,PF,21,Utah Jazz,4.7,5.0,0.7
+Shai Gilgeous-Alexander,PG,26,Oklahoma City Thunder,32.7,5.0,6.4
+Aaron Wiggins,SG,26,Oklahoma City Thunder,12.0,3.9,1.8
+Isaiah Joe,SG,25,Oklahoma City Thunder,10.2,2.6,1.6
+Luguentz Dort,SF,26,Oklahoma City Thunder,10.1,4.1,1.6
+Jalen Williams,SG,24,Oklahoma City Thunder,21.6,5.3,5.1
+Kenrich Williams,PF,30,Oklahoma City Thunder,6.3,3.5,1.4
+Cason Wallace,SG,21,Oklahoma City Thunder,8.4,3.4,2.5
+Isaiah Hartenstein,C,27,Oklahoma City Thunder,11.2,10.7,3.8
+Alex Caruso,SG,31,Oklahoma City Thunder,7.1,2.9,2.5
+Dillon Jones,SF,23,Oklahoma City Thunder,2.5,2.2,1.1
+Jaylin Williams,PF,22,Oklahoma City Thunder,5.9,5.6,2.6
+Ousmane Dieng,C,22,Oklahoma City Thunder,3.8,2.2,0.8
+Adam Flagler  (TW),SG,25,Oklahoma City Thunder,1.8,0.7,0.3
+Ajay Mitchell,SG,22,Oklahoma City Thunder,6.5,1.9,1.8
+Chet Holmgren,C,23,Oklahoma City Thunder,15.0,8.0,2.0
+Branden Carlson  (TW),C,25,Oklahoma City Thunder,3.8,1.7,0.4
+Alex Ducas  (TW),SG,24,Oklahoma City Thunder,1.7,1.2,0.2
+Nikola TopiÄ,PG,19,Oklahoma City Thunder,0.0,0.0,0.0
+Jaden McDaniels,PF,24,Minnesota Timberwolves,12.2,5.7,2.0
+Nickeil Alexander-Walker,SG,26,Minnesota Timberwolves,9.4,3.2,2.7
+Naz Reid,C,25,Minnesota Timberwolves,14.2,6.0,2.3
+Anthony Edwards,SG,23,Minnesota Timberwolves,27.6,5.7,4.5
+Rudy Gobert,C,32,Minnesota Timberwolves,12.0,10.9,1.8
+Mike Conley,PG,37,Minnesota Timberwolves,8.2,2.6,4.5
+Julius Randle,PF,30,Minnesota Timberwolves,18.7,7.1,4.7
+Donte DiVincenzo,SG,28,Minnesota Timberwolves,11.7,3.7,3.6
+Rob Dillingham,PG,20,Minnesota Timberwolves,4.5,1.0,2.0
+Josh Minott,SF,22,Minnesota Timberwolves,2.6,1.0,0.4
+Jaylen Clark,SG,23,Minnesota Timberwolves,4.1,1.3,0.7
+Luka Garza,C,26,Minnesota Timberwolves,3.5,1.4,0.3
+Terrence Shannon Jr.,SG,24,Minnesota Timberwolves,4.3,1.5,1.0
+Joe Ingles,SF,37,Minnesota Timberwolves,0.8,0.6,1.2
+Leonard Miller,SF,21,Minnesota Timberwolves,1.5,0.8,0.0
+Bones Hyland  (TW),PG,24,Minnesota Timberwolves,6.2,1.0,1.3
+Tristen Newton  (TW),SG,24,Minnesota Timberwolves,0.4,0.5,0.3
+Jesse Edwards  (TW),C,25,Minnesota Timberwolves,0.0,0.0,0.5
+Buddy Hield,SG,32,Golden State Warriors,11.1,3.2,1.6
+Kevon Looney,C,29,Golden State Warriors,4.5,6.1,1.6
+Moses Moody,SG,22,Golden State Warriors,9.8,2.6,1.3
+Stephen Curry,PG,37,Golden State Warriors,24.5,4.4,6.0
+Draymond Green,PF,35,Golden State Warriors,9.0,6.1,5.6
+Brandin Podziemski,SG,22,Golden State Warriors,11.7,5.1,3.4
+Trayce Jackson-Davis,C,25,Golden State Warriors,6.6,5.0,1.7
+Gary Payton II,SG,32,Golden State Warriors,6.5,3.0,1.3
+Gui Santos,PF,22,Golden State Warriors,4.1,3.1,1.4
+Jonathan Kuminga,PF,22,Golden State Warriors,15.3,4.6,2.2
+Quinten Post,PF,25,Golden State Warriors,8.1,3.5,1.3
+Pat Spencer,PG,28,Golden State Warriors,2.5,1.2,1.2
+Jimmy Butler,SF,35,Golden State Warriors,17.5,5.4,5.4
+Kevin Knox,SF,25,Golden State Warriors,3.3,1.2,0.4
+Jackson Rowe  (TW),PF,28,Golden State Warriors,3.7,1.8,0.7
+Braxton Key,SF,28,Golden State Warriors,1.0,0.7,0.0
+Taran Armstrong  (TW),PG,23,Golden State Warriors,0.0,0.0,0.0
+Jaylen Wells,SG,21,Memphis Grizzlies,10.4,3.4,1.7
+Scotty Pippen Jr.,PG,24,Memphis Grizzlies,9.9,3.3,4.4
+Jaren Jackson Jr.,C,25,Memphis Grizzlies,22.2,5.6,2.0
+Desmond Bane,SG,26,Memphis Grizzlies,19.2,6.1,5.3
+Zach Edey,C,23,Memphis Grizzlies,9.2,8.3,1.0
+Santi Aldama,PF,24,Memphis Grizzlies,12.5,6.4,2.9
+Luke Kennard,SG,28,Memphis Grizzlies,8.9,2.8,3.3
+Brandon Clarke,PF,28,Memphis Grizzlies,8.3,5.1,1.0
+Jay Huff,C,26,Memphis Grizzlies,6.9,2.0,0.6
+Ja Morant,PG,25,Memphis Grizzlies,23.2,4.1,7.3
+John Konchar,SG,29,Memphis Grizzlies,2.4,3.3,0.9
+GG Jackson II,PF,20,Memphis Grizzlies,7.2,3.2,1.0
+Vince Williams Jr.,SG,24,Memphis Grizzlies,6.6,3.6,2.0
+Cam Spencer  (TW),SG,25,Memphis Grizzlies,4.2,1.2,1.4
+Yuki Kawamura  (TW),PG,24,Memphis Grizzlies,1.6,0.5,0.9
+Lamar Stevens,PF,27,Memphis Grizzlies,4.4,2.2,0.5
+Marvin Bagley III,PF,26,Memphis Grizzlies,4.4,2.7,0.4
+Zyon Pullin  (TW),SG,24,Memphis Grizzlies,0.0,0.0,0.0
