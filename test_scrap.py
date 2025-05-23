@@ -55,7 +55,6 @@ with open('active_players.csv', 'a', newline='') as csvfile:
         player_info_url = f'https://www.basketball-reference.com/teams/{abbr}/2025.html#all_roster'
         print(player_info_url)
         player_info_r = requests.get(player_info_url)
-        # time.sleep(random.uniform(10, 30))
 
         soup = BeautifulSoup(player_info_r.text, 'html.parser')
         players = soup.find_all('td', attrs={'data-stat': 'player'})
