@@ -94,7 +94,7 @@ with open('active_players.csv', 'a', newline='') as csvfile:
                 assists = get_stat('Assists')
                 
                 player_dict = {
-                    'player': player.text.strip(),
+                    'name': player.text.strip(),
                     'position': position,
                     'age': age,
                     'team': teams_dict[abbr],
