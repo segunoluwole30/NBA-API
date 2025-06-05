@@ -36,8 +36,6 @@ def get_current_user(authorization: str = Header(...), db: Session = Depends(get
     try:
         # Decode the JWT token
         payload = jwt.decode(token, secret_key, algorithms=["HS256"])
-        print(f"Decoded payload: {payload}")
-        print("Token exp:", payload.get("exp"), "Now:", int(datetime.utcnow().timestamp()))
         username = payload.get("username")
         db.username = db.query(User).filter(func.lower(User.username) == username.lower()).first()
         if not db.username:
@@ -89,7 +87,7 @@ def login_user(user: LoginUser, db: Session = Depends(get_db)):
     db_user = db.query(User).filter(func.lower(User.username) == user.username.lower()).first()
     if db_user and sha256_crypt.verify(user.password, db_user.password_hash):
         # generate a JWT token
-        expire = datetime.utcnow() - timedelta(minutes=1)
+        expire = datetime.now() + timedelta(minutes=1)
         token = jwt.encode({"user_id": db_user.id, "username": db_user.username, "exp": int(expire.timestamp())}, secret_key, algorithm="HS256")
         return {"message": "Login successful", "user_id": db_user.id, "token": token}
     else:
