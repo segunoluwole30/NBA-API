@@ -1,4 +1,4 @@
-from database import Base, engine
+from database import Base
 from sqlalchemy import Column, Integer, String, Float
 from pydantic import BaseModel, EmailStr
 
@@ -14,6 +14,7 @@ class Player(Base):
     assists_per_game = Column(Float, nullable=False)
     rebounds_per_game = Column(Float, nullable=False)
 
+
 class User(Base):
     __tablename__ = "users"
     id = Column(Integer, primary_key=True)
@@ -22,7 +23,7 @@ class User(Base):
     password_hash = Column(String(128), nullable=False)
 
 
-#pydantic models for request validation
+# Pydantic models
 class RegisterUser(BaseModel):
     username: str
     email: EmailStr
@@ -31,9 +32,3 @@ class RegisterUser(BaseModel):
 class LoginUser(BaseModel):
     username: str
     password: str
-
-try:
-    Base.metadata.create_all(engine)
-    print("Database tables created successfully.")
-except Exception as e:
-    print(f"Error creating database tables: {e}")

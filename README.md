@@ -29,6 +29,15 @@ A secure RESTful API for the National Basketball Association (NBA), built with F
 
 ---
 
+## Security Features
+
+- All passwords are hashed using `sha256_crypt` (via `passlib`)
+- JWT tokens are used for authentication, signed with a secret key
+- Tokens expire after 30 minutes to prevent misuse
+- Protected endpoints require a valid token
+- Tokens are verified and decoded on each request
+
+
 ## Setup
 
 1. **Clone the repository**
@@ -71,12 +80,12 @@ A secure RESTful API for the National Basketball Association (NBA), built with F
    ```
    This will add all scraped players to your database.
 
-7. **Initialize the database schema**  
-   Run the following command to create the tables in your database (if not already created):
-   ```sh
-   python models.py
-   ```
-   This will create all necessary tables as defined in your models.
+7. **Initialize the Database Schema**
+
+    The database schema is automatically created when you start the FastAPI server.  
+    No need to run any migration or setup scripts manually.
+
+    Just start the API server (next step), and all tables (`users`, `players`) will be created if they don't already exist.
 
 8. **Start the API server**
    ```sh
@@ -128,13 +137,13 @@ Below is an example of a successful registration using the `/register` endpoint 
 
 ## Example: Login Endpoint in Postman
 
-Below is an example of a successful registration using the `/login` endpoint in Postman:
+Below is an example of a successful login using the `/login` endpoint in Postman:
 
 ![Login endpoint success in Postman](images/login.png)
 
 ## Example: Get Player By Name Endpoint in Postman
 
-Below is an example of a successful registration using the `/players/{player_name}` endpoint in Postman:
+Below is an example of a successful player query using the `/players/{player_name}` endpoint in Postman:
 
 ![Get Player By Name endpoint success in Postman](images/get_player.png)
 

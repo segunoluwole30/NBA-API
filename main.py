@@ -1,10 +1,10 @@
 from fastapi import FastAPI, Depends, Request, HTTPException, status, Header
-from database import SessionLocal
+from database import SessionLocal, engine
 from models import Player, User
 from sqlalchemy.orm import Session
 from sqlalchemy import func
 from passlib.hash import sha256_crypt
-from models import RegisterUser, LoginUser
+from models import RegisterUser, LoginUser, Base
 import jwt
 import os
 from datetime import datetime, timedelta
@@ -12,6 +12,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = FastAPI()
+
+Base.metadata.create_all(bind=engine)
 
 secret_key = os.environ.get('SECRET_KEY')
 
