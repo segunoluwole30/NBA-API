@@ -8,7 +8,6 @@ A secure RESTful API for the National Basketball Association (NBA), built with F
 
 - **User Registration & Login** with password hashing and JWT authentication
 - **Protected Endpoints** for player and team data
-- **CRUD Operations** for players (extendable)
 - **Queries**:  
   - Get player by name  
   - List players by position  
@@ -111,7 +110,6 @@ A secure RESTful API for the National Basketball Association (NBA), built with F
 
 ---
 
-
 ## Usage
 
 - Use [Postman](https://www.postman.com/) or `curl` to interact with the API.
@@ -121,6 +119,25 @@ A secure RESTful API for the National Basketball Association (NBA), built with F
   ```
 
 ---
+
+## Example: Register Endpoint in Postman
+
+Below is an example of a successful registration using the `/register` endpoint in Postman:
+
+![Register endpoint success in Postman](images/register.png)
+
+## Example: Login Endpoint in Postman
+
+Below is an example of a successful registration using the `/login` endpoint in Postman:
+
+![Login endpoint success in Postman](images/login.png)
+
+## Example: Get Player By Name Endpoint in Postman
+
+Below is an example of a successful registration using the `/players/{player_name}` endpoint in Postman:
+
+![Get Player By Name endpoint success in Postman](images/get_player.png)
+
 
 ## Development
 
@@ -145,4 +162,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or support, open an issue or contact [your email/contact info].
+For questions or support, open an issue or contact by email at [segunoluwole30@gmail.com].

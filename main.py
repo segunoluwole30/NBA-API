@@ -78,6 +78,7 @@ def login_user(user: LoginUser, db: Session = Depends(get_db)):
         return {"message": "Login successful", "user_id": db_user.id, "token": token}
     else:
         return {"error": "Invalid username or password"}
+    
 @app.get("/")
 def read_root():
     return {"message": "Welcome to the Basketball API. Use /players to get player data."}
