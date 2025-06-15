@@ -69,7 +69,7 @@ A secure RESTful API for the National Basketball Association (NBA), built with F
 5. **Scrape NBA Player Data**  
    Run the web scraper to collect player information and stats from the web and save them to a CSV file:
    ```sh
-   python test_scrap.py
+   python player_scraper.py
    ```
    This will generate a CSV file (e.g., `players.csv`) containing the latest player data.
 
