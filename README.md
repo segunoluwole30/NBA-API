@@ -69,37 +69,33 @@ A secure RESTful API for the National Basketball Association (NBA), built with F
 5. **Scrape NBA Player Data**  
    Run the web scraper to collect player information and stats from the web and save them to a CSV file:
    ```sh
-   python player_scraper.py
+   python test_scrap.py
    ```
    This will generate a CSV file (e.g., `players.csv`) containing the latest player data.
 
-6. **Import Players into the Database**  
+6. **Start the API server**  
+   This will automatically create the database schema (tables) if they do not already exist.
+   ```sh
+   uvicorn main:app --reload
+   ```
+
+
+7. **Import Players into the Database**  
    Use the import script to read the CSV file and populate the database:
    ```sh
    python import_players.py
    ```
    This will add all scraped players to your database.
 
-7. **Initialize the Database Schema**
-
-    The database schema is automatically created when you start the FastAPI server.  
-    No need to run any migration or setup scripts manually.
-
-    Just start the API server (next step), and all tables (`users`, `players`) will be created if they don't already exist.
-
-8. **Start the API server**
-   ```sh
-   uvicorn main:app --reload
-   ```
-
 ---
 
 **Summary:**  
 1. Scrape player data  
-2. Import CSV to database  
-3. Initialize schema (if needed)  
-4. Start API server and use endpoints
+2. Start the API server (this initializes the schema if needed)  
+3. Import CSV to database  
+4. Use API endpoints
 
+---
 
 ## API Endpoints
 
